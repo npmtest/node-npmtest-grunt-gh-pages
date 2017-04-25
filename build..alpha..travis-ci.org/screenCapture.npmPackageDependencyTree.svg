@@ -1,0 +1,56 @@
+<svg height="846" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="846" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">12 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">├── UNMET PEER DEPENDENCY grunt@&gt;=0.4.0</tspan>
+<tspan x="10" y="90">└─┬ grunt-gh-pages@2.0.0 </tspan>
+<tspan x="10" y="106">  ├─┬ async@2.0.1 </tspan>
+<tspan x="10" y="122">  │ └── lodash@4.17.4 </tspan>
+<tspan x="10" y="138">  ├─┬ fs-extra@0.30.0 </tspan>
+<tspan x="10" y="154">  │ ├─┬ jsonfile@2.4.0 </tspan>
+<tspan x="10" y="170">  │ │ └── graceful-fs@4.1.11 </tspan>
+<tspan x="10" y="186">  │ ├─┬ klaw@1.3.1 </tspan>
+<tspan x="10" y="202">  │ │ └── graceful-fs@4.1.11 </tspan>
+<tspan x="10" y="218">  │ ├── path-is-absolute@1.0.1 </tspan>
+<tspan x="10" y="234">  │ └─┬ rimraf@2.6.1 </tspan>
+<tspan x="10" y="250">  │   └─┬ glob@7.1.1 </tspan>
+<tspan x="10" y="266">  │     ├── fs.realpath@1.0.0 </tspan>
+<tspan x="10" y="282">  │     ├─┬ inflight@1.0.6 </tspan>
+<tspan x="10" y="298">  │     │ └── wrappy@1.0.2 </tspan>
+<tspan x="10" y="314">  │     ├── inherits@2.0.3 </tspan>
+<tspan x="10" y="330">  │     ├─┬ minimatch@3.0.3 </tspan>
+<tspan x="10" y="346">  │     │ └─┬ brace-expansion@1.1.7 </tspan>
+<tspan x="10" y="362">  │     │   ├── balanced-match@0.4.2 </tspan>
+<tspan x="10" y="378">  │     │   └── concat-map@0.0.1 </tspan>
+<tspan x="10" y="394">  │     └── once@1.4.0 </tspan>
+<tspan x="10" y="410">  ├── graceful-fs@4.1.5 </tspan>
+<tspan x="10" y="426">  ├── q@0.9.3 </tspan>
+<tspan x="10" y="442">  ├─┬ q-io@2.0.2 </tspan>
+<tspan x="10" y="458">  │ ├─┬ collections@2.0.3 </tspan>
+<tspan x="10" y="474">  │ │ ├── mini-map@1.0.0 </tspan>
+<tspan x="10" y="490">  │ │ ├── pop-arrayify@1.0.0 </tspan>
+<tspan x="10" y="506">  │ │ ├── pop-clear@1.0.0 </tspan>
+<tspan x="10" y="522">  │ │ ├── pop-clone@1.0.1 </tspan>
+<tspan x="10" y="538">  │ │ ├── pop-compare@1.0.0 </tspan>
+<tspan x="10" y="554">  │ │ ├── pop-equals@1.0.0 </tspan>
+<tspan x="10" y="570">  │ │ ├── pop-has@1.0.0 </tspan>
+<tspan x="10" y="586">  │ │ ├── pop-hash@1.0.1 </tspan>
+<tspan x="10" y="602">  │ │ ├── pop-iterate@1.0.1 </tspan>
+<tspan x="10" y="618">  │ │ ├── pop-observe@2.0.2 </tspan>
+<tspan x="10" y="634">  │ │ ├── pop-swap@1.0.0 </tspan>
+<tspan x="10" y="650">  │ │ ├── pop-zip@1.0.0 </tspan>
+<tspan x="10" y="666">  │ │ ├── regexp-escape@0.0.1 </tspan>
+<tspan x="10" y="682">  │ │ └── weak-map@1.0.5 </tspan>
+<tspan x="10" y="698">  │ ├── mime@1.3.4 </tspan>
+<tspan x="10" y="714">  │ ├── mimeparse@0.1.4 </tspan>
+<tspan x="10" y="730">  │ ├─┬ q@2.0.3 </tspan>
+<tspan x="10" y="746">  │ │ └── asap@2.0.5 </tspan>
+<tspan x="10" y="762">  │ ├── qs@0.6.6 </tspan>
+<tspan x="10" y="778">  │ └─┬ url2@1.0.4 </tspan>
+<tspan x="10" y="794">  │   └─┬ url@0.10.2 </tspan>
+<tspan x="10" y="810">  │     └── punycode@1.3.2 </tspan>
+<tspan x="10" y="826">  └── url-safe@2.0.0</tspan>
+</text>
+</svg>
